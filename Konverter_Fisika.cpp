@@ -1,4 +1,4 @@
-//Ctrl + Shift + B untuk Compile
+
 #include <iostream>
 #include <iomanip>
 
